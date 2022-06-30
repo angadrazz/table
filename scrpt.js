@@ -1,4 +1,4 @@
 getComputedStyle
 const{
-    a
+    a b
 }
