@@ -1,4 +1,0 @@
-getComputedStyle
-const{
-    a b
-}
