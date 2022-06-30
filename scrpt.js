@@ -1,0 +1,4 @@
+getComputedStyle
+const{
+    a
+}
