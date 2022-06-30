@@ -1,3 +1,4 @@
+
 table {
     margin: auto;
     margin-top: 60px;
@@ -18,8 +19,9 @@ table th, td {
 button {
     width: 100px;
     height: 22px;
-    background-color: wheat;
+    background-color: gray;
     cursor: pointer;
     font-weight: bold;
     font-size: 15px;
+
 }
